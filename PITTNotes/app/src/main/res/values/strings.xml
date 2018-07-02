@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PITTNotes</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Confirm Password</string>
+    <string name="prompt_username">Username</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="tab_courses">Courses</string>
+    <string name="tab_sessions">Class</string>
+    <string name="tab_notes">Notes</string>
+    <string name="main_error_message">You are not in any courses</string>
+    <string name="session_error_message">Course has no clases</string>
+    <string name="note_error_message">Class has no notes</string>
+    <string name="find_course">Find Course</string>
+    <string name="add_course">Add Course</string>
+    <string name="add_session">Add Class</string>
+    <string name="add_note">Add Note</string>
+    <string name="course_name">Name of Course</string>
+    <string name="course_number">Course Number (5-digits)</string>
+    <string name="session_date">Date of Class</string>
+    <string name="date_button_set">Select Date of Class</string>
+    <string name="add_page">Get Note</string>
+    <string name="save_page">Add Another Page</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+</resources>
